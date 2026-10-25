@@ -1,0 +1,8 @@
+url: https://github.com/mkhl20/dsh-lingua-atlas
+name: mkhl20/dsh-lingua-atlas
+category: tools
+description:
+  en: Offline Chinese-English and English-Chinese dictionary with monolingual glosses, grouped related words, prosody analysis, and a public-domain Chinese/English literary corpus exposed to agents.
+  zh: 离线汉英/英汉辞典，含汉译汉、英译英、分组相关词、声律分析，以及可被智能体检索的公版中英文学语料库。
+icon: https://raw.githubusercontent.com/mkhl20/dsh-lingua-atlas/main/assets/icon-512.png
+tarball: https://github.com/mkhl20/dsh-lingua-atlas/releases/latest/download/dsh-lingua-atlas.tgz

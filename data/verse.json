@@ -1,0 +1,256 @@
+{
+  "zh": {
+    "风": [
+      { "t": "风雨如晦，鸡鸣不已。\n既见君子，云胡不喜。", "s": "《诗经·郑风·风雨》", "r": "四言，二二节拍" }
+    ],
+    "雅": [
+      { "t": "呦呦鹿鸣，食野之苹。\n我有嘉宾，鼓瑟吹笙。", "s": "《诗经·小雅·鹿鸣》", "r": "四言，二二节拍" }
+    ],
+    "颂": [
+      { "t": "於穆清庙，肃雝显相。\n济济多士，秉文之德。", "s": "《诗经·周颂·清庙》", "r": "四言，庄重徐缓" }
+    ],
+    "水": [
+      { "t": "关关雎鸠，在河之洲。\n窈窕淑女，君子好逑。", "s": "《诗经·周南·关雎》", "r": "四言，二二节拍" },
+      { "t": "逝者如斯夫，不舍昼夜。", "s": "《论语·子罕》", "r": "散句，叹逝" }
+    ],
+    "河": [
+      { "t": "君不见黄河之水天上来，\n奔流到海不复回。", "s": "李白《将进酒》", "r": "七言，二二三节拍" }
+    ],
+    "江": [
+      { "t": "大江东去，浪淘尽，\n千古风流人物。", "s": "苏轼《念奴娇·赤壁怀古》", "r": "长短句，顿挫" }
+    ],
+    "海": [
+      { "t": "海内存知己，天涯若比邻。", "s": "王勃《送杜少府之任蜀州》", "r": "五言，二二一节拍" }
+    ],
+    "月": [
+      { "t": "海上生明月，天涯共此时。", "s": "张九龄《望月怀远》", "r": "五言，二二一节拍" }
+    ],
+    "日": [
+      { "t": "白日依山尽，黄河入海流。", "s": "王之涣《登鹳雀楼》", "r": "五言，二二一节拍" }
+    ],
+    "山": [
+      { "t": "会当凌绝顶，一览众山小。", "s": "杜甫《望岳》", "r": "五言，二二一节拍" }
+    ],
+    "雨": [
+      { "t": "好雨知时节，当春乃发生。", "s": "杜甫《春夜喜雨》", "r": "五言，二二一节拍" }
+    ],
+    "雪": [
+      { "t": "千山鸟飞绝，万径人踪灭。", "s": "柳宗元《江雪》", "r": "五言，二二一节拍" }
+    ],
+    "云": [
+      { "t": "行到水穷处，坐看云起时。", "s": "王维《终南别业》", "r": "五言，二二一节拍" }
+    ],
+    "花": [
+      { "t": "桃之夭夭，灼灼其华。\n之子于归，宜其室家。", "s": "《诗经·周南·桃夭》", "r": "四言，二二节拍" }
+    ],
+    "鸟": [
+      { "t": "关关雎鸠，在河之洲。", "s": "《诗经·周南·关雎》", "r": "四言，二二节拍" }
+    ],
+    "霜": [
+      { "t": "蒹葭苍苍，白露为霜。\n所谓伊人，在水一方。", "s": "《诗经·秦风·蒹葭》", "r": "四言，二二节拍" }
+    ],
+    "露": [
+      { "t": "蒹葭苍苍，白露为霜。", "s": "《诗经·秦风·蒹葭》", "r": "四言，二二节拍" }
+    ],
+    "柳": [
+      { "t": "昔我往矣，杨柳依依。\n今我来思，雨雪霏霏。", "s": "《诗经·小雅·采薇》", "r": "四言，二二节拍" }
+    ],
+    "思": [
+      { "t": "红豆生南国，春来发几枝。\n愿君多采撷，此物最相思。", "s": "王维《相思》", "r": "五言，二二一节拍" }
+    ],
+    "爱": [
+      { "t": "死生契阔，与子成说。\n执子之手，与子偕老。", "s": "《诗经·邶风·击鼓》", "r": "四言，二二节拍" }
+    ],
+    "心": [
+      { "t": "青青子衿，悠悠我心。", "s": "《诗经·郑风·子衿》", "r": "四言，二二节拍" }
+    ],
+    "梦": [
+      { "t": "庄生晓梦迷蝴蝶，\n望帝春心托杜鹃。", "s": "李商隐《锦瑟》", "r": "七言，二二三节拍" }
+    ],
+    "酒": [
+      { "t": "对酒当歌，人生几何。", "s": "曹操《短歌行》", "r": "四言，二二节拍" }
+    ],
+    "茶": [
+      { "t": "一碗喉吻润，两碗破孤闷。", "s": "卢仝《七碗茶歌》", "r": "五言，二二一节拍" }
+    ],
+    "剑": [
+      { "t": "十年磨一剑，霜刃未曾试。", "s": "贾岛《剑客》", "r": "五言，二二一节拍" }
+    ],
+    "书": [
+      { "t": "读书破万卷，下笔如有神。", "s": "杜甫《奉赠韦左丞丈二十二韵》", "r": "五言，二二一节拍" }
+    ],
+    "路": [
+      { "t": "路漫漫其修远兮，\n吾将上下而求索。", "s": "屈原《离骚》", "r": "骚体，长句顿挫" }
+    ],
+    "春": [
+      { "t": "春眠不觉晓，处处闻啼鸟。\n夜来风雨声，花落知多少。", "s": "孟浩然《春晓》", "r": "五言，二二一节拍" }
+    ],
+    "秋": [
+      { "t": "自古逢秋悲寂寥，\n我言秋日胜春朝。", "s": "刘禹锡《秋词》", "r": "七言，二二三节拍" }
+    ],
+    "夜": [
+      { "t": "床前明月光，疑是地上霜。\n举头望明月，低头思故乡。", "s": "李白《静夜思》", "r": "五言，二二一节拍" }
+    ],
+    "乡": [
+      { "t": "举头望明月，低头思故乡。", "s": "李白《静夜思》", "r": "五言，二二一节拍" }
+    ],
+    "别": [
+      { "t": "劝君更尽一杯酒，\n西出阳关无故人。", "s": "王维《送元二使安西》", "r": "七言，二二三节拍" }
+    ],
+    "归": [
+      { "t": "归去来兮，田园将芜胡不归。", "s": "陶渊明《归去来兮辞》", "r": "骚体，长句" }
+    ],
+    "人": [
+      { "t": "人有悲欢离合，\n月有阴晴圆缺，\n此事古难全。", "s": "苏轼《水调歌头》", "r": "长短句，三顿" }
+    ],
+    "天": [
+      { "t": "天行健，君子以自强不息。", "s": "《周易·乾卦》", "r": "散句，铿锵" }
+    ],
+    "地": [
+      { "t": "地势坤，君子以厚德载物。", "s": "《周易·坤卦》", "r": "散句，厚重" }
+    ],
+    "时": [
+      { "t": "逝者如斯夫，不舍昼夜。", "s": "《论语·子罕》", "r": "散句，叹逝" }
+    ],
+    "生": [
+      { "t": "人生自古谁无死，\n留取丹心照汗青。", "s": "文天祥《过零丁洋》", "r": "七言，二二三节拍" }
+    ],
+    "死": [
+      { "t": "人固有一死，\n或重于泰山，或轻于鸿毛。", "s": "司马迁《报任安书》", "r": "散句，对举" }
+    ],
+    "愁": [
+      { "t": "梧桐更兼细雨，\n到黄昏、点点滴滴。", "s": "李清照《声声慢》", "r": "长短句，叠字" }
+    ],
+    "家": [
+      { "t": "烽火连三月，家书抵万金。", "s": "杜甫《春望》", "r": "五言，二二一节拍" }
+    ],
+    "老": [
+      { "t": "老骥伏枥，志在千里。\n烈士暮年，壮心不已。", "s": "曹操《龟虽寿》", "r": "四言，二二节拍" }
+    ],
+    "白": [
+      { "t": "白日依山尽，黄河入海流。", "s": "王之涣《登鹳雀楼》", "r": "五言，二二一节拍" }
+    ],
+    "青": [
+      { "t": "青青子衿，悠悠我心。", "s": "《诗经·郑风·子衿》", "r": "四言，二二节拍" }
+    ],
+    "红": [
+      { "t": "红豆生南国，春来发几枝。", "s": "王维《相思》", "r": "五言，二二一节拍" }
+    ],
+    "黄": [
+      { "t": "黄河之水天上来，\n奔流到海不复回。", "s": "李白《将进酒》", "r": "七言，二二三节拍" }
+    ]
+  },
+  "en": {
+    "water": [
+      { "t": "Water, water, every where,\nAnd all the boards did shrink;\nWater, water, every where,\nNor any drop to drink.", "s": "Samuel Taylor Coleridge, The Rime of the Ancient Mariner", "r": "ballad metre, four stresses" }
+    ],
+    "love": [
+      { "t": "Love is not love\nWhich alters when it alteration finds,\nOr bends with the remover to remove.", "s": "William Shakespeare, Sonnet 116", "r": "iambic pentameter" }
+    ],
+    "summer": [
+      { "t": "Shall I compare thee to a summer's day?\nThou art more lovely and more temperate.", "s": "William Shakespeare, Sonnet 18", "r": "iambic pentameter" }
+    ],
+    "moon": [
+      { "t": "The moon shines bright. In such a night as this,\nWhen the sweet wind did gently kiss the trees.", "s": "William Shakespeare, The Merchant of Venice", "r": "blank verse" }
+    ],
+    "night": [
+      { "t": "The moon shines bright. In such a night as this,\nWhen the sweet wind did gently kiss the trees.", "s": "William Shakespeare, The Merchant of Venice", "r": "blank verse" }
+    ],
+    "death": [
+      { "t": "Because I could not stop for Death –\nHe kindly stopped for me –\nThe Carriage held but just Ourselves –\nAnd Immortality.", "s": "Emily Dickinson, Because I could not stop for Death", "r": "common metre" }
+    ],
+    "hope": [
+      { "t": "Hope is the thing with feathers\nThat perches in the soul,\nAnd sings the tune without the words,\nAnd never stops at all.", "s": "Emily Dickinson, Hope is the thing with feathers", "r": "common metre" }
+    ],
+    "road": [
+      { "t": "Two roads diverged in a wood, and I –\nI took the one less traveled by,\nAnd that has made all the difference.", "s": "Robert Frost, The Road Not Taken", "r": "four stresses, uneven pause" }
+    ],
+    "snow": [
+      { "t": "The woods are lovely, dark and deep,\nBut I have promises to keep,\nAnd miles to go before I sleep.", "s": "Robert Frost, Stopping by Woods on a Snowy Evening", "r": "iambic tetrameter" }
+    ],
+    "woods": [
+      { "t": "The woods are lovely, dark and deep,\nBut I have promises to keep.", "s": "Robert Frost, Stopping by Woods on a Snowy Evening", "r": "iambic tetrameter" }
+    ],
+    "cloud": [
+      { "t": "I wandered lonely as a cloud\nThat floats on high o'er vales and hills.", "s": "William Wordsworth, I Wandered Lonely as a Cloud", "r": "iambic tetrameter" }
+    ],
+    "daffodil": [
+      { "t": "I wandered lonely as a cloud\nThat floats on high o'er vales and hills,\nWhen all at once I saw a crowd,\nA host, of golden daffodils.", "s": "William Wordsworth, I Wandered Lonely as a Cloud", "r": "iambic tetrameter" }
+    ],
+    "tiger": [
+      { "t": "Tyger Tyger, burning bright,\nIn the forests of the night.", "s": "William Blake, The Tyger", "r": "trochaic tetrameter" }
+    ],
+    "world": [
+      { "t": "All the world's a stage,\nAnd all the men and women merely players.", "s": "William Shakespeare, As You Like It", "r": "blank verse" }
+    ],
+    "man": [
+      { "t": "No man is an island,\nEntire of itself;\nEvery man is a piece of the continent,\nA part of the main.", "s": "John Donne, Meditation XVII", "r": "prose cadence" }
+    ],
+    "beauty": [
+      { "t": "A thing of beauty is a joy for ever:\nIts loveliness increases; it will never\nPass into nothingness.", "s": "John Keats, Endymion", "r": "iambic pentameter" }
+    ],
+    "time": [
+      { "t": "Like as the waves make towards the pebbled shore,\nSo do our minutes hasten to their end.", "s": "William Shakespeare, Sonnet 60", "r": "iambic pentameter" }
+    ],
+    "sea": [
+      { "t": "Alone, alone, all, all alone,\nAlone on a wide wide sea!\nAnd never a saint took pity on\nMy soul in agony.", "s": "Samuel Taylor Coleridge, The Rime of the Ancient Mariner", "r": "ballad metre" }
+    ],
+    "raven": [
+      { "t": "Once upon a midnight dreary, while I pondered, weak and weary,\nOver many a quaint and curious volume of forgotten lore.", "s": "Edgar Allan Poe, The Raven", "r": "trochaic octameter" }
+    ],
+    "dream": [
+      { "t": "All that we see or seem\nIs but a dream within a dream.", "s": "Edgar Allan Poe, A Dream Within a Dream", "r": "iambic tetrameter" }
+    ],
+    "wind": [
+      { "t": "O wild West Wind, thou breath of Autumn's being,\nThou, from whose unseen presence the leaves dead\nAre driven, like ghosts from an enchanter fleeing.", "s": "Percy Bysshe Shelley, Ode to the West Wind", "r": "terza rima, iambic pentameter" }
+    ],
+    "autumn": [
+      { "t": "Season of mists and mellow fruitfulness,\nClose bosom-friend of the maturing sun.", "s": "John Keats, To Autumn", "r": "iambic pentameter" }
+    ],
+    "sun": [
+      { "t": "Sometime too hot the eye of heaven shines,\nAnd often is his gold complexion dimm'd.", "s": "William Shakespeare, Sonnet 18", "r": "iambic pentameter" }
+    ],
+    "music": [
+      { "t": "If music be the food of love, play on;\nGive me excess of it.", "s": "William Shakespeare, Twelfth Night", "r": "blank verse" }
+    ],
+    "book": [
+      { "t": "Come, and take choice of all my library,\nAnd so beguile thy sorrow.", "s": "William Shakespeare, Titus Andronicus", "r": "blank verse" }
+    ],
+    "name": [
+      { "t": "What's in a name? that which we call a rose\nBy any other name would smell as sweet.", "s": "William Shakespeare, Romeo and Juliet", "r": "blank verse" }
+    ],
+    "rose": [
+      { "t": "That which we call a rose\nBy any other name would smell as sweet.", "s": "William Shakespeare, Romeo and Juliet", "r": "blank verse" }
+    ],
+    "winter": [
+      { "t": "When icicles hang by the wall,\nAnd Dick the shepherd blows his nail,\nAnd Tom bears logs into the hall,\nAnd milk comes frozen home in pail.", "s": "William Shakespeare, Love's Labour's Lost", "r": "fourteeners" }
+    ],
+    "fire": [
+      { "t": "Some say the world will end in fire,\nSome say in ice.", "s": "Robert Frost, Fire and Ice", "r": "iambic tetrameter" }
+    ],
+    "gold": [
+      { "t": "Nature's first green is gold,\nHer hardest hue to hold.", "s": "Robert Frost, Nothing Gold Can Stay", "r": "iambic trimeter" }
+    ],
+    "star": [
+      { "t": "Twinkle, twinkle, little star,\nHow I wonder what you are!\nUp above the world so high,\nLike a diamond in the sky.", "s": "Jane Taylor, The Star", "r": "couplets, four stresses" }
+    ],
+    "rain": [
+      { "t": "Into each life some rain must fall,\nSome days must be dark and dreary.", "s": "Henry Wadsworth Longfellow, The Rainy Day", "r": "iambic pentameter" }
+    ],
+    "sleep": [
+      { "t": "A flock of sheep that leisurely pass by,\nOne after one; the sound of rain, and bees\nMurmuring.", "s": "William Wordsworth, To Sleep", "r": "iambic pentameter" }
+    ],
+    "war": [
+      { "t": "Half a league, half a league,\nHalf a league onward,\nAll in the valley of Death\nRode the six hundred.", "s": "Alfred, Lord Tennyson, The Charge of the Light Brigade", "r": "dactylic dimeter" }
+    ],
+    "king": [
+      { "t": "My name is Ozymandias, king of kings;\nLook on my works, ye Mighty, and despair!", "s": "Percy Bysshe Shelley, Ozymandias", "r": "iambic pentameter" }
+    ],
+    "truth": [
+      { "t": "Tell all the truth but tell it slant –\nSuccess in Circuit lies.", "s": "Emily Dickinson, Tell all the truth but tell it slant", "r": "common metre" }
+    ],
+    "tree": [
+      { "t": "I think that I shall never see\nA poem lovely as a tree.", "s": "Joyce Kilmer, Trees", "r": "rhyming couplet" }
+    ]
+  }
+}

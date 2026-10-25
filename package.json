@@ -1,0 +1,63 @@
+{
+  "name": "dsh-lingua-atlas",
+  "version": "1.0.0",
+  "description": "离线汉英/英汉辞典，含汉译汉、英译英、声律分析与公版中英文学语料库。",
+  "license": "MIT",
+  "author": "mkhl20",
+  "type": "module",
+  "exports": {
+    ".": "./index.js",
+    "./client": "./client.js",
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./icon.svg"
+  },
+  "files": [
+    "index.js",
+    "client.js",
+    "client.template.js",
+    "cordis.patch.yml",
+    "lib/*.mjs",
+    "data/lexicon.mjs",
+    "data/dict/*.json",
+    "data/dict/*.jsonl",
+    "data/dict/cmudict.dict",
+    "data/corpus/*.json",
+    "data/corpus/*.jsonl",
+    "locale/*.json",
+    "icon.svg",
+    "assets/icon-512.png",
+    "assets/screenshots/*.png",
+    "screenshots.json",
+    "LICENSE",
+    "THIRD_PARTY_NOTICES.md"
+  ],
+  "keywords": [
+    "dsh-plugin",
+    "dictionary",
+    "chinese",
+    "english",
+    "prosody",
+    "corpus",
+    "rag"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkhl20/dsh-lingua-atlas.git"
+  },
+  "homepage": "https://github.com/mkhl20/dsh-lingua-atlas#readme",
+  "bugs": {
+    "url": "https://github.com/mkhl20/dsh-lingua-atlas/issues"
+  },
+  "engines": {
+    "dsh": ">=0.2.0-rc.2 <0.2.1-0 || >=0.2.1-rc.2 <0.3.0"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web",
+      "immediately": true
+    }
+  }
+}

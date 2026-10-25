@@ -1,0 +1,663 @@
+{
+  "version": 1,
+  "builtAt": "2026-10-25T06:17:44.553Z",
+  "count": 1168,
+  "bytes": 1395104,
+  "languages": {
+    "zh": 1016,
+    "en": 152
+  },
+  "kinds": {
+    "poem": 888,
+    "ci": 280
+  },
+  "facets": {
+    "tradition": [
+      {
+        "name": "中国古典",
+        "count": 1016
+      },
+      {
+        "name": "英国",
+        "count": 152
+      }
+    ],
+    "era": [
+      {
+        "name": "先秦",
+        "count": 370
+      },
+      {
+        "name": "唐",
+        "count": 366
+      },
+      {
+        "name": "宋",
+        "count": 280
+      },
+      {
+        "name": "伊丽莎白时代",
+        "count": 152
+      }
+    ],
+    "genre": [
+      {
+        "name": "诗",
+        "count": 888
+      },
+      {
+        "name": "词",
+        "count": 280
+      }
+    ],
+    "form": [
+      {
+        "name": "四言诗",
+        "count": 280
+      },
+      {
+        "name": "词",
+        "count": 280
+      },
+      {
+        "name": "十四行诗",
+        "count": 152
+      },
+      {
+        "name": "五言律诗",
+        "count": 83
+      },
+      {
+        "name": "乐府",
+        "count": 72
+      },
+      {
+        "name": "骚体",
+        "count": 65
+      },
+      {
+        "name": "七言绝句",
+        "count": 52
+      },
+      {
+        "name": "七言律诗",
+        "count": 51
+      },
+      {
+        "name": "五言绝句",
+        "count": 33
+      },
+      {
+        "name": "五言古诗",
+        "count": 32
+      },
+      {
+        "name": "杂言诗",
+        "count": 28
+      },
+      {
+        "name": "七言古诗",
+        "count": 26
+      },
+      {
+        "name": "七言诗",
+        "count": 8
+      },
+      {
+        "name": "五言诗",
+        "count": 6
+      }
+    ],
+    "collection": [
+      {
+        "name": "唐诗三百首",
+        "count": 366
+      },
+      {
+        "name": "诗经",
+        "count": 305
+      },
+      {
+        "name": "宋词三百首",
+        "count": 280
+      },
+      {
+        "name": "莎士比亚十四行诗",
+        "count": 152
+      },
+      {
+        "name": "楚辞",
+        "count": 65
+      }
+    ],
+    "moods": [
+      {
+        "name": "怅惘",
+        "count": 484
+      },
+      {
+        "name": "思念",
+        "count": 302
+      },
+      {
+        "name": "欢愉",
+        "count": 286
+      },
+      {
+        "name": "闲适",
+        "count": 160
+      },
+      {
+        "name": "悲愤",
+        "count": 96
+      }
+    ],
+    "images": [
+      {
+        "name": "水",
+        "count": 372
+      },
+      {
+        "name": "风云",
+        "count": 345
+      },
+      {
+        "name": "雨雪",
+        "count": 344
+      },
+      {
+        "name": "花木",
+        "count": 344
+      },
+      {
+        "name": "山",
+        "count": 303
+      },
+      {
+        "name": "江河",
+        "count": 287
+      },
+      {
+        "name": "月",
+        "count": 268
+      },
+      {
+        "name": "春",
+        "count": 229
+      },
+      {
+        "name": "夜",
+        "count": 206
+      },
+      {
+        "name": "酒",
+        "count": 185
+      },
+      {
+        "name": "楼台",
+        "count": 137
+      },
+      {
+        "name": "飞鸟",
+        "count": 133
+      },
+      {
+        "name": "秋",
+        "count": 128
+      },
+      {
+        "name": "梦",
+        "count": 96
+      },
+      {
+        "name": "舟船",
+        "count": 84
+      },
+      {
+        "name": "灯烛",
+        "count": 75
+      }
+    ],
+    "seasons": [
+      {
+        "name": "春",
+        "count": 246
+      },
+      {
+        "name": "夜",
+        "count": 219
+      },
+      {
+        "name": "秋",
+        "count": 148
+      },
+      {
+        "name": "夏",
+        "count": 25
+      },
+      {
+        "name": "冬",
+        "count": 15
+      }
+    ],
+    "themes": [
+      {
+        "name": "山水",
+        "count": 438
+      },
+      {
+        "name": "爱情",
+        "count": 343
+      },
+      {
+        "name": "思乡",
+        "count": 307
+      },
+      {
+        "name": "边塞",
+        "count": 263
+      },
+      {
+        "name": "伤春",
+        "count": 249
+      },
+      {
+        "name": "哲理",
+        "count": 234
+      },
+      {
+        "name": "悲秋",
+        "count": 215
+      },
+      {
+        "name": "送别",
+        "count": 196
+      },
+      {
+        "name": "羁旅",
+        "count": 196
+      },
+      {
+        "name": "怀古",
+        "count": 161
+      },
+      {
+        "name": "田园",
+        "count": 105
+      },
+      {
+        "name": "宫怨",
+        "count": 80
+      },
+      {
+        "name": "悼亡",
+        "count": 39
+      }
+    ]
+  },
+  "tags": [
+    {
+      "name": "怅惘",
+      "count": 433
+    },
+    {
+      "name": "夜",
+      "count": 395
+    },
+    {
+      "name": "水",
+      "count": 371
+    },
+    {
+      "name": "春",
+      "count": 369
+    },
+    {
+      "name": "唐诗",
+      "count": 366
+    },
+    {
+      "name": "唐诗三百首",
+      "count": 366
+    },
+    {
+      "name": "风云",
+      "count": 345
+    },
+    {
+      "name": "花木",
+      "count": 344
+    },
+    {
+      "name": "雨雪",
+      "count": 340
+    },
+    {
+      "name": "诗经",
+      "count": 305
+    },
+    {
+      "name": "山",
+      "count": 301
+    },
+    {
+      "name": "江河",
+      "count": 285
+    },
+    {
+      "name": "宋词",
+      "count": 280
+    },
+    {
+      "name": "宋词三百首",
+      "count": 280
+    },
+    {
+      "name": "爱情",
+      "count": 272
+    },
+    {
+      "name": "月",
+      "count": 267
+    },
+    {
+      "name": "思念",
+      "count": 250
+    },
+    {
+      "name": "欢愉",
+      "count": 239
+    },
+    {
+      "name": "楼台",
+      "count": 229
+    },
+    {
+      "name": "酒",
+      "count": 216
+    },
+    {
+      "name": "山水",
+      "count": 216
+    },
+    {
+      "name": "秋",
+      "count": 213
+    },
+    {
+      "name": "思乡",
+      "count": 195
+    },
+    {
+      "name": "边塞",
+      "count": 182
+    },
+    {
+      "name": "国风",
+      "count": 160
+    },
+    {
+      "name": "十四行诗",
+      "count": 152
+    },
+    {
+      "name": "莎士比亚",
+      "count": 152
+    },
+    {
+      "name": "时间",
+      "count": 152
+    },
+    {
+      "name": "飞鸟",
+      "count": 148
+    },
+    {
+      "name": "梦",
+      "count": 145
+    },
+    {
+      "name": "伤春",
+      "count": 121
+    },
+    {
+      "name": "送别",
+      "count": 115
+    },
+    {
+      "name": "哲理",
+      "count": 114
+    },
+    {
+      "name": "闲适",
+      "count": 112
+    },
+    {
+      "name": "怀古",
+      "count": 97
+    },
+    {
+      "name": "舟船",
+      "count": 94
+    },
+    {
+      "name": "灯烛",
+      "count": 90
+    },
+    {
+      "name": "羁旅",
+      "count": 84
+    },
+    {
+      "name": "五言律诗",
+      "count": 83
+    },
+    {
+      "name": "田园",
+      "count": 77
+    },
+    {
+      "name": "悲秋",
+      "count": 77
+    },
+    {
+      "name": "小雅",
+      "count": 74
+    },
+    {
+      "name": "乐府",
+      "count": 73
+    },
+    {
+      "name": "悲愤",
+      "count": 72
+    },
+    {
+      "name": "楚辞",
+      "count": 65
+    },
+    {
+      "name": "写景",
+      "count": 61
+    },
+    {
+      "name": "七言绝句",
+      "count": 52
+    },
+    {
+      "name": "宫怨",
+      "count": 51
+    },
+    {
+      "name": "七言律诗",
+      "count": 51
+    },
+    {
+      "name": "抒情",
+      "count": 35
+    },
+    {
+      "name": "五言绝句",
+      "count": 33
+    },
+    {
+      "name": "五言古诗",
+      "count": 32
+    },
+    {
+      "name": "大雅",
+      "count": 31
+    },
+    {
+      "name": "周颂",
+      "count": 31
+    },
+    {
+      "name": "初中古诗",
+      "count": 31
+    },
+    {
+      "name": "友情",
+      "count": 30
+    },
+    {
+      "name": "女子",
+      "count": 28
+    },
+    {
+      "name": "隋・唐・五代",
+      "count": 27
+    },
+    {
+      "name": "七言古诗",
+      "count": 26
+    },
+    {
+      "name": "悼亡",
+      "count": 23
+    },
+    {
+      "name": "写人",
+      "count": 23
+    },
+    {
+      "name": "郑风",
+      "count": 21
+    },
+    {
+      "name": "邶风",
+      "count": 19
+    },
+    {
+      "name": "战争",
+      "count": 18
+    },
+    {
+      "name": "生活",
+      "count": 18
+    },
+    {
+      "name": "秋天",
+      "count": 15
+    },
+    {
+      "name": "春天",
+      "count": 15
+    },
+    {
+      "name": "召南",
+      "count": 14
+    },
+    {
+      "name": "鱼藻之什",
+      "count": 14
+    },
+    {
+      "name": "孤独",
+      "count": 14
+    },
+    {
+      "name": "月亮",
+      "count": 14
+    },
+    {
+      "name": "冬天",
+      "count": 14
+    },
+    {
+      "name": "闺怨",
+      "count": 13
+    },
+    {
+      "name": "夏",
+      "count": 12
+    },
+    {
+      "name": "唐风",
+      "count": 12
+    },
+    {
+      "name": "怀人",
+      "count": 12
+    },
+    {
+      "name": "妇女",
+      "count": 12
+    },
+    {
+      "name": "九歌",
+      "count": 11
+    },
+    {
+      "name": "周南",
+      "count": 11
+    },
+    {
+      "name": "齐风",
+      "count": 11
+    }
+  ],
+  "sources": [
+    {
+      "id": "tang300",
+      "name": "唐诗三百首",
+      "count": 366,
+      "license": "Public Domain",
+      "datasetLicense": "MIT",
+      "url": "https://github.com/chinese-poetry/chinese-poetry"
+    },
+    {
+      "id": "song300",
+      "name": "宋词三百首",
+      "count": 280,
+      "license": "Public Domain",
+      "datasetLicense": "MIT",
+      "url": "https://github.com/chinese-poetry/chinese-poetry"
+    },
+    {
+      "id": "shijing",
+      "name": "诗经",
+      "count": 305,
+      "license": "Public Domain",
+      "datasetLicense": "MIT",
+      "url": "https://github.com/chinese-poetry/chinese-poetry"
+    },
+    {
+      "id": "chuci",
+      "name": "楚辞",
+      "count": 65,
+      "license": "Public Domain",
+      "datasetLicense": "MIT",
+      "url": "https://github.com/chinese-poetry/chinese-poetry"
+    },
+    {
+      "id": "gutenberg-1041",
+      "name": "Shakespeare's Sonnets",
+      "count": 152,
+      "license": "Public Domain",
+      "datasetLicense": "Public Domain",
+      "url": "https://www.gutenberg.org/ebooks/1041"
+    }
+  ],
+  "notes": 5
+}

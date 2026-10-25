@@ -1,0 +1,101 @@
+{
+  "version": 2,
+  "builtAt": "2026-10-22T15:23:13.628Z",
+  "zh": {
+    "count": 121532,
+    "bytes": 25259600,
+    "file": "zh.jsonl",
+    "index": "zh.index.json",
+    "words": "zh.words.json",
+    "pinyin": "zh.py.json",
+    "letters": {
+      "Y": 9495,
+      "Q": 4615,
+      "E": 746,
+      "S": 10182,
+      "W": 4162,
+      "B": 7231,
+      "J": 8538,
+      "A": 1624,
+      "C": 6673,
+      "D": 7343,
+      "G": 5614,
+      "H": 6686,
+      "I": 4,
+      "K": 3101,
+      "L": 6905,
+      "M": 4658,
+      "N": 2576,
+      "O": 168,
+      "P": 2990,
+      "T": 5253,
+      "U": 8,
+      "V": 2,
+      "X": 7156,
+      "Z": 9407,
+      "F": 4390,
+      "R": 2005
+    },
+    "monolingual": 45858
+  },
+  "en": {
+    "count": 57156,
+    "bytes": 14537049,
+    "file": "en.jsonl",
+    "index": "en.index.json",
+    "words": "en.words.json",
+    "letters": {
+      "A": 3457,
+      "B": 3527,
+      "C": 5305,
+      "D": 3328,
+      "E": 2301,
+      "F": 2290,
+      "G": 1995,
+      "H": 2331,
+      "I": 2317,
+      "J": 629,
+      "K": 690,
+      "L": 1961,
+      "M": 3524,
+      "N": 1288,
+      "O": 1345,
+      "P": 4283,
+      "Q": 248,
+      "R": 2990,
+      "S": 6056,
+      "T": 2785,
+      "U": 1742,
+      "V": 866,
+      "W": 1518,
+      "X": 37,
+      "Y": 195,
+      "Z": 148
+    }
+  },
+  "sources": [
+    {
+      "name": "CC-CEDICT",
+      "license": "CC BY-SA 4.0",
+      "url": "https://www.mdbg.net/chinese/dictionary?page=cc-cedict"
+    },
+    {
+      "name": "ECDICT",
+      "license": "MIT",
+      "url": "https://github.com/skywind3000/ECDICT"
+    },
+    {
+      "name": "chinese-xinhua",
+      "license": "MIT",
+      "url": "https://github.com/pwxcoo/chinese-xinhua"
+    }
+  ],
+  "related": {
+    "zh": "related.zh.json",
+    "en": "related.en.json"
+  },
+  "relatedBuiltAt": "2026-10-25T05:13:30.074Z",
+  "relatedEn": "related.en.json",
+  "relatedEnBuiltAt": "2026-10-25T05:35:45.661077+00:00",
+  "relatedEnSource": "Princeton WordNet 3.0 (NLTK), primary sense only"
+}

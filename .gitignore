@@ -1,0 +1,6 @@
+node_modules/
+data/raw/
+*.tgz
+.tools/
+desktop-*.png
+printwindow-*.png
